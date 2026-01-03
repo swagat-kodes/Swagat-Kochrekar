@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hey there✌️ I'm Swagat, a sde-in-the-making passionate about turning ideas into real-world projects. 🐱 Exploring full-stack development and AI.
 
-<div class="tenor-gif-embed" data-postid="9201768733267676288" data-share-method="host" data-aspect-ratio="0.591398" data-width="100%"><a href="https://tenor.com/view/pokemon-red-red-sprite-pokemon-red-sprite-trainer-red-soulsilver-gif-9201768733267676288">Pokemon Red Red Sprite Sticker</a>from <a href="https://tenor.com/search/pokemon+red-stickers">Pokemon Red Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+https://tenor.com/en-GB/view/pokemon-red-red-sprite-pokemon-red-sprite-trainer-red-soulsilver-gif-9201768733267676288
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/swagat-kochrekar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swagatkochrekar10@gmail.com) 
