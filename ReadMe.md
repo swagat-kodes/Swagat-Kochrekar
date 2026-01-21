@@ -3,8 +3,6 @@ Hey there✌️ I'm Swagat, a sde-in-the-making passionate about turning ideas i
 
 ![Pokemon Ash](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZiYzV6NnYyN3djcnJxcmJsOXUzYm1tMjFpNXJrMGpldHloMXZrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nQWVYFzfxFPoY/giphy.gif) 
 
-![Anya Grin](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdnYTlubDkwc2doM3A3c3UwdGxyOGlqaW93aHM4aTVqbHZiMnZhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FWAcpJsFT9mvrv0e7a/giphy.gif)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/swagat-kochrekar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swagatkochrekar10@gmail.com) 
 
