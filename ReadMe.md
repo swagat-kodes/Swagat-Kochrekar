@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hey there✌️ I'm Swagat, a sde-in-the-making passionate about turning ideas into real-world projects. 🐱 Exploring full-stack development and AI.
 
-![Pokemon Red]([https://media.tenor.com/XXXXXXXX.gif](https://media.tenor.com/f7M_6Ou3TIAAAAAi/pokemon-red-red-sprite.gif))
+![Pokemon Red](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZiYzV6NnYyN3djcnJxcmJsOXUzYm1tMjFpNXJrMGpldHloMXZrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nQWVYFzfxFPoY/giphy.gif) 
 
 
 ## 🌐 Socials:
