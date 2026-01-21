@@ -2,7 +2,7 @@
 Hey there✌️ I'm Swagat, a sde-in-the-making passionate about turning ideas into real-world projects. 🐱 Exploring full-stack development and AI.
 
 ![Pokemon Red](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZiYzV6NnYyN3djcnJxcmJsOXUzYm1tMjFpNXJrMGpldHloMXZrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nQWVYFzfxFPoY/giphy.gif) 
-
+![Waguri Dancing](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRkeHV2NjNsdW11Mmp4anBkOHl6am4wYWI4bG8xcTFhbnNlaG83aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8JCIWBz8oRRLZmZhNn/giphy.gif)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/swagat-kochrekar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swagatkochrekar10@gmail.com) 
